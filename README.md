@@ -18,7 +18,7 @@ This project is a wearable system that tracks eye movement in real time to detec
 ## 🔧 Hardware Used
 
 - Raspberry Pi Zero 2 W
-- NoIR Camera Module (e.g., OV5647)
+- Raspberry Pi Camera Module 3 NoIR Wide)
 - 2x IR LEDs
 - MicroSD card (32GB Class 10)
 - Micro USB cable + power supply
