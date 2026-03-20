@@ -1,10 +1,10 @@
-# 👁️ Eye Tracking System for Parkinson’s Detection
+# Eye Tracking System for Parkinson’s Detection
 
 This project is a wearable system that tracks eye movement in real time to detect key Parkinson's symptoms like abnormal saccades and blinking patterns. It uses an infrared camera, a Raspberry Pi Zero 2 W, and a custom Python-based feature extraction pipeline.
 
 ---
 
-## 🧠 What It Does
+## What It Does
 
 - Detects pupil position (x, y)
 - Calculates pupil area and axes
@@ -15,7 +15,7 @@ This project is a wearable system that tracks eye movement in real time to detec
 
 ---
 
-## 🔧 Hardware Used
+## Hardware Used
 
 - Raspberry Pi Zero 2 W
 - Raspberry Pi Camera Module 3 NoIR Wide)
@@ -26,7 +26,7 @@ This project is a wearable system that tracks eye movement in real time to detec
 
 ---
 
-## 💻 Software Used
+## Software Used
 
 - Raspberry Pi OS Lite
 - Python 3
@@ -37,7 +37,7 @@ This project is a wearable system that tracks eye movement in real time to detec
 
 ---
 
-## 📝 License
+## License
 
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
 
@@ -45,11 +45,11 @@ This project is licensed under the [MIT License](https://choosealicense.com/lice
 
 ---
 
-## 🙋‍♂️ Author
+## Author
 
 **Ujjwal Aggarwal**  
-📧 uaggarwal1_be23@thapar.edu  
-🔗 [github.com/ujjwx1](https://github.com/ujjwx1)
+uaggarwal1_be23@thapar.edu  
+[github.com/ujjwx1](https://github.com/ujjwx1)
 
 ---
 
